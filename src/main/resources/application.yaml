@@ -1,6 +1,6 @@
 spring:
   application:
-    name: poc-2-sqs-consumer-ms-springboot
+    name: poc-2-sqs-fifo-consumer-ms-springboot
   cloud:
     aws:
       region:

@@ -1,4 +1,4 @@
-package br.com.poc_2_sqs_consumer_ms_springboot.consumer;
+package br.com.poc_2_sqs_fifo_consumer_ms_springboot.consumer;
 
 import io.awspring.cloud.sqs.annotation.SqsListener;
 import org.springframework.stereotype.Component;
