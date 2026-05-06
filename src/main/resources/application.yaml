@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: poc-2-sqs-consumer-ms-springboot
+  cloud:
+    aws:
+      region:
+        static: us-east-1
+      credentials:
+        profile:
+          name: default
