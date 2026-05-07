@@ -8,3 +8,5 @@ spring:
       credentials:
         profile:
           name: default
+server:
+  port: 8082
